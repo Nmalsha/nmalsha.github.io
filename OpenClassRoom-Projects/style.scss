@@ -1,0 +1,121 @@
+body{
+  margin-left: 50px;
+}
+h6{
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+}
+
+
+/*text under the logo */
+
+#text2{
+opacity: 0.6;
+}
+/*serch bar */
+
+/*localosation icon */
+svg{
+  border-radius: 5px 0;
+}
+/*button group */
+
+/*icon styling */
+i{
+  color:Dodgerblue;
+  
+}
+
+.icon{
+  border:none;
+ padding: 6px;
+  border-radius: 10px;
+ background-color:#ccccff ; 
+
+}
+/*button styling */
+.btn{
+  font-size: 12px;
+  border-radius:20px 20px 20px 20px;
+  border: 0.1px  slide ;
+  
+  padding: 3px;
+  
+ 
+}
+/* first image containers*/
+
+.imglot1{
+  padding-top: 20px;
+  margin-left:20px;
+  padding-bottom: 20px;
+}
+img{
+  height: 8rem;
+  padding: 5px;
+  object-fit: cover;
+  border-radius: 10px 0px 0px 10px ;
+}
+.card{
+  border-radius: 10px;
+  width: 12rem;
+  margin-left:20px;
+}
+/*icon color */
+.color{
+  color:Dodgerblue ;
+}
+.card-text{
+  font-size: 12px;
+ 
+}
+
+/* second left image containers*/
+.container2{
+  background-color:#e0e0d1;
+  padding-left: 5px;
+ 
+  margin-top:20px;
+  border-radius: 10px;
+  
+}
+/* thirrd right image containers*/
+.container3{
+  background-color:#e0e0d1;
+margin-left: 10px;
+border-radius: 10px;
+margin-top:20px;
+padding-bottom: 20px;
+}
+
+/*footer section */
+.container-footer{
+  margin-top: 30px;
+  background-color:#e0e0d1 ;
+}
+.text_link {
+  font-size: 13px;
+  font-weight: bold;
+}
+.list-unstyled  {
+  font-size: 13px;
+}
+.link_box{
+  margin-top: 20px;
+  margin-left: 30px;
+  text-align: left;
+}
+
+/* activity section */
+.left-box{ position:relative; padding-top:30px;}
+.right-box{position:relative; padding-top:30px;}
+
+
+
+.card-img-top {
+   border-top-left-radius: 10px !important; 
+   border-top-right-radius: 10px !important; 
+   border-radius: 10px !important; 
+
+}
